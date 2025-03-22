@@ -29,4 +29,9 @@ PowerNukkitX is a software for minecraft bedrock edition in Java which is a fork
 ## [PocketMine MP](/game_eggs/minecraft/bedrock/pocketmine_mp)
 
 [PocketMine MP](https://github.com/pmmp/PocketMine-MP)
-A server software for Minecraft: Bedrock Edition in PHP
+PocketMine-MP is a server software for Minecraft: Bedrock Edition in PHP
+
+## [XPocketMP](/game_eggs/minecraft/bedrock/XPocketMP)
+
+[XPocketMP](https://github.com/ClousClouds/XPocketMP)
+XPocketMP is a server software for Minecraft: Bedrock Edition in PHP which is a fork of PocketMine-MP
